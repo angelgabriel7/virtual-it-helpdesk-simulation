@@ -21,7 +21,7 @@ New IT support staff often lack practical experience in handling diverse user pr
 *   **Troubleshooting Tools (Simulated):** Access to virtual command prompts, system settings, knowledge bases.
 *   **Guidance/Hint System:** Optional hints for users who get stuck.
 *   **Scoring/Feedback Mechanism:** Evaluation of troubleshooting steps, time taken, and communication effectiveness.
-*   **User Interface Mockups (Jika ada, Anda bisa embed gambar di sini):**
+*   **User Interface Mockups**
     *   *Contoh: Halaman login, dashboard skenario, tampilan chat interaksi, dll.*
 
 ## Target User
@@ -30,8 +30,8 @@ New IT support staff often lack practical experience in handling diverse user pr
 *   Students in IT programs.
 
 ## Technology Stack
-*   Frontend: HTML, CSS, JavaScript (React/Vue/Angular - jika ingin membuatnya lebih kompleks di masa depan)
-*   Backend: (Tidak perlu untuk konsep awal, tapi bisa dipikirkan jika ingin data persistence)
+*   Frontend: HTML, CSS, JavaScript,React/Vue/Angular
+*   Backend
 *   Platform: Web-based for easy accessibility.
 
 ## Skills Demonstrated by this Concept
